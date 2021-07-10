@@ -1,4 +1,8 @@
 
+
+
+
+ 
 body, html{
     background-image:url(images/cool-background.png);
     background-repeat: no-repeat;
@@ -129,7 +133,7 @@ background-color: grey;
 }
 .centered{
     position: absolute;
-    top: 27%;
+    top: 10%;
     left: 50%;
     font-family:serif; 
     font-stretch:semi-expanded;  
@@ -137,7 +141,19 @@ background-color: grey;
     font-size: 80px; 
     border-style: solid;
     border-width: 5px;
+    color: white; 
 
+}
+.ex{
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    
+    
+    transform: translate(-175%, -50%);
+   
+   
+   
 }
 .cont {
     position: relative;
