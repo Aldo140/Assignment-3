@@ -10,6 +10,8 @@ body, html{
     background-size: cover;
     border-image-outset: 10px; 
     height:100%
+     color: white; 
+     
 }
 
 #pg{
